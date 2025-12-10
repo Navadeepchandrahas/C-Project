@@ -89,6 +89,3 @@ This repository contains:
 - Program output screenshots
 - A complete README with compilation and execution instructions
 - A correctly organized GitHub submission
-
-## Author
-Navadeep Chandrahas
